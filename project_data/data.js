@@ -1,6 +1,6 @@
 const data = {};
 
-data.firstTxt = 'you/ve taken the first step...';
+data.firstTxt = 'you\ve taken the first step...';
 
 data.secondTxt = 'the journey has just begun...';
 
